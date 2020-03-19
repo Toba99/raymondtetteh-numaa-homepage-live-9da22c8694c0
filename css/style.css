@@ -1,0 +1,68 @@
+@font-face {
+  font-family: 'juice_bold_italicregular';
+  src: url('fonts/juice_bold_italic-webfont.woff2') format('woff2'),
+       url('fonts/juice_bold_italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'juice_boldbold';
+  src: url('fonts/juice_bold-webfont.woff2') format('woff2'),
+       url('fonts/juice_bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'juice_italicitalic';
+  src: url('fonts/juice_italic-webfont.woff2') format('woff2'),
+       url('fonts/juice_italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'juice_light_italicitalic';
+  src: url('fonts/juice_light_italic-webfont.woff2') format('woff2'),
+       url('fonts/juice_light_italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'juice_lightregular';
+  src: url('fonts/juice_light-webfont.woff2') format('woff2'),
+       url('fonts/juice_light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'juice_regularregular';
+  src: url('fonts/juice_regular-webfont.woff2') format('woff2'),
+       url('fonts/juice_regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
